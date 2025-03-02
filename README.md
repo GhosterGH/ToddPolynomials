@@ -29,4 +29,10 @@ T5.txt is
 
 This encodes the polynomial
 
+```
 1/720 ( -c_1^4 + 4 c_1^2 c_2 + 3 c_2^2 + c_1 c_3 - c_4 )
+```
+
+The minimalist formatting is intentional in order to be CAS-agnostic.
+
+The polynomials were computed in *Mathematica* using an algorithm suggested by Richard Stanley in [this MathOverflow question](https://mathoverflow.net/questions/488555/reference-request-a-list-of-todd-polynomials). The computation took about 10 minutes.

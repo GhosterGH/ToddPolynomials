@@ -1,5 +1,5 @@
 # ToddPolynomials
-Data for Todd polynomials up to degree 40
+Data for [Todd polynomials](https://encyclopediaofmath.org/wiki/Todd_polynomials) up to degree 40
 
 The 'data' directory contains 40 files named T1.txt through T40.txt,
 each containing data for one Todd polynomial.
